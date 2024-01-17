@@ -2,7 +2,7 @@ Kindly, Please the follow the instruction
 
 1. It will take 5-6 minutes to load the images and i have also included the stopwatch screenshot
 
-2. When the image is loading, please navigate to [About,Contact,Cart] Page alone. Dont navigate to Home or Menu, it will through you a error like unable to load the image
+2. When the image is loading, please navigate to [About,Contact,Cart] Page alone. Dont navigate to Home or Menu, it will through you a error like unable to load the image and you can also view the charts in mobile view 
 
 3. After the image is loaded, you can try the Login page
 
