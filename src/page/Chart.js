@@ -103,7 +103,7 @@ const Chart = () => {
           options={{
             plugins: {
               title: {
-                text: "Revenue Sources",
+                text: "Revenue Source",
               },
             },
           }}
