@@ -100,6 +100,9 @@ const Header = () => {
                   <Link to={"about"} className="px-2 py-1">
                     About
                   </Link>
+                  <Link to={"chart"} className="px-2 py-1">
+                    Chart
+                  </Link>
                   <Link to={"contact"} className="px-2 py-1">
                     Contact
                   </Link>

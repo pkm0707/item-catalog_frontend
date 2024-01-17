@@ -87,7 +87,7 @@ const Home = () => {
       <div className="">
         <div className="flex w-full items-center">
           <h2 className="font-bold text-2xl text-slate-800 mb-2">
-            Fresh vegitables
+            Fresh vegetables
           </h2>
 
           <div className="ml-auto flex gap-4 ">
