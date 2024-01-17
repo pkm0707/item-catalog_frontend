@@ -42,7 +42,7 @@ const Home = () => {
             />
           </div>
           <h2 className="text-4xl md:text-7xl font-bold py-3">
-            The Fastest Delevery in{" "}
+            The Fastest Delivery in{" "}
             <span className="text-red-600 "> Your Home</span>
           </h2>
           <p className="py-3 text-base ">
