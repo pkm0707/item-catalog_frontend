@@ -39,6 +39,7 @@ const Header = () => {
             <Link to={""}>Home</Link>
             <Link to={"menu/6492ac48d408df002c851b95"}>Menu</Link>
             <Link to={"about"}>About</Link>
+            <Link to={"chart"}>Chart</Link>
             <Link to={"contact"}>Contact</Link>
           </nav>
 
